@@ -1,4 +1,4 @@
-# Flutter 
+# Flutter Study
 - 다양한 Flutter 앱 프로젝트들을 모은 저장소입니다.
 - 각 앱은 Flutter의 기본 기능을 실습하고 다양한 UI/UX를 구현한 예제들입니다.
 
