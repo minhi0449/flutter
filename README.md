@@ -9,7 +9,7 @@
   <!--<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />-->
   <img src="https://img.shields.io/badge/Android_Studio-30bd88?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-1F9CF0?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
